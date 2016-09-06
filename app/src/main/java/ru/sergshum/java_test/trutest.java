@@ -12,7 +12,7 @@ public class trutest {
 
     static  void aArray(){
 
-        char [] numbs = {78, 56, 244, 235, 147};
+        char [] numbs = {78, 56, 245, 235, 147};
 
         for(int i = 0; i < numbs.length; i++){
 
